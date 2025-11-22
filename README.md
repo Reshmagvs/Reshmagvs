@@ -14,7 +14,7 @@
 
 1) [Projects List](https://github.com/Reshmagvs/My_Projects_List)
 2) [Workshops by Me](https://github.com/Reshmagvs/Workshops_By_Me)
-3) [Agent Building & Automation](https://github.com/Reshmagvs/Workshops_By_Me)
+3) [Agent Building & Automation](https://github.com/Reshmagvs/Agent_Automation_projects)
    
 ## 🛠️ **Tech Stack & Tools**
 
